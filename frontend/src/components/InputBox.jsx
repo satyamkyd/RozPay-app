@@ -8,3 +8,5 @@ export function InputBox({label, placeholder, onChange}){
         </>
     )
 }
+
+// lawda lahsun
